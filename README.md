@@ -22,8 +22,7 @@ The application loads profile data from a JSON file and displays different user 
 - Node.js
 - Express.js
 - EJS
-- HTML5
-- CSS3
+- CSS
 - JavaScript
 
 ---
@@ -97,8 +96,6 @@ http://localhost:8080
 - Make the UI responsive
 - Add profile editing
 - Store profile data in a database
-
----
 
 ## 👨‍💻 Author
 
